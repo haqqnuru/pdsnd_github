@@ -35,7 +35,7 @@ def get_filters():
         else:
             print('You entered the wrong city. Please enter either Chicago, New York City or Washington')
            
-    # filter data by month, day, or not at all
+    # filter data or no filter
     while True:
         filter = input('Do you want to filter the data or not? if yes, enter \'YES\'. if no filter, enter \'NO\'\n')
         if filter.lower() == 'yes':
