@@ -13,5 +13,8 @@ chicago.csv
 new_york_city.csv
 washington.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## Credits
+[stackoverflow](https://stackoverflow.com/)
+[Python Documentation](https://www.python.org/doc/)
+[Pandas Documentation](https://pandas.pydata.org/docs/)
+[NumPy Documentation](https://numpy.org/doc/)
