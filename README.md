@@ -4,8 +4,8 @@ February 7, 2020
 # Project Title
 __Bikeshare Project__
 
-### Description
-Describe what your project is about and what it does
+# Description
+The project is a python application of a data provided by [Motivate](https://motivateco.com),a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. The project compares the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 ### Files used
 Include the files used
