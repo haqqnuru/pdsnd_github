@@ -232,11 +232,14 @@ def raw_data(df):
     """Displays raw data."""
 
     print('\nGetting the raw data...\n')
+    start_time = time.time()
 
     raw_data = input('Would you like to see the raw data? if yes, enter \'YES\' to see raw data or enter any key to exit.\n').lower()
     raw=0
     while raw_data == 'yes':
         print(df[raw:raw+5])
+        print("\nThis took %s seconds." % (time.time() - start_time))
+        print('-'*40)
         raw+=5
         raw_data = input('Would you like to see more raw data? if yes, enter \'YES\' to see more raw data or enter any key to exit.\n').lower()
 
