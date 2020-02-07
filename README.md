@@ -14,7 +14,7 @@ new_york_city.csv
 washington.csv
 
 ## Credits
-[stackoverflow](https://stackoverflow.com/)
-[Python Documentation](https://www.python.org/doc/)
-[Pandas Documentation](https://pandas.pydata.org/docs/)
-[NumPy Documentation](https://numpy.org/doc/)
+[stackoverflow](https://stackoverflow.com/),
+[Python Documentation](https://www.python.org/doc/),
+[Pandas Documentation](https://pandas.pydata.org/docs/),
+[NumPy Documentation](https://numpy.org/doc/).
